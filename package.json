@@ -1,0 +1,22 @@
+{
+  "name": "indicadoresve_api",
+  "version": "1.0.0",
+  "description": "indicaroresVE API",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mc-ireiser/indicadoresve-api.git"
+  },
+  "keywords": [
+    "indicadoresVE"
+  ],
+  "author": "Jesus Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mc-ireiser/indicadoresve-api/issues"
+  },
+  "homepage": "https://github.com/mc-ireiser/indicadoresve-api#readme"
+}
